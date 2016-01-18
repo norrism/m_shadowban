@@ -22,7 +22,9 @@ Installation
 
         make && make install
 
-4. Start the InspIRCd server.
+4. Restart the InspIRCd server or load the module from the server:
+
+        /loadmodule m_shadowban.so
 
 Usage
 -
